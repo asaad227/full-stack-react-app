@@ -6,6 +6,12 @@ This project applied knowledge of react components, react routes, api get and po
 
 Using React Router to link the page and different components to create the app - Backend heroku DATEBASE using express-generator-esmodules then implement that database to create get and post request - also FETCH DATA from third party API and display on the page.
 
+## deploy
+
+This APP has been deploy on netlify please see links below:
+
+https://youthful-sammet-358e85.netlify.app/
+
 # Getting Started
  
  ## npm i 
