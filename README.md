@@ -4,7 +4,7 @@ This project applied knowledge of react components, react routes, api get and po
 
 ## Project Layout
 
-Using React Router to link the page and different components to create the app - Backhand heroku DATEBASE using express-generator-esmodules then implement that database to create get and post request - also FETCH DATA from third party API and display on the page.
+Using React Router to link the page and different components to create the app - Backend heroku DATEBASE using express-generator-esmodules then implement that database to create get and post request - also FETCH DATA from third party API and display on the page.
 
 # Getting Started
  
