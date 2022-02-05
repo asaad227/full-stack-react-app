@@ -38,10 +38,10 @@
 
 .form > input,
 button {
-  border-radius: 10px;
-  margin: 2px 1px 2px 1px;
+ margin: 1px 2px 5px 1px;
   font-style: oblique;
   padding: 5px 5px 5px 5px;
+  border-radius: 10px;
 }
 
 .container > .form {
@@ -51,10 +51,11 @@ button {
 
 .btn {
   background: rgb(95, 68, 68);
+
+
 }
 
 .int {
-  justify-content: space-between;
   font-weight: bold;
   font-style: oblique;
 }

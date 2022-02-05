@@ -58,7 +58,7 @@ export default function Dialog() {
     <div className="container">
       <div>
         <form onSubmit={handleSubmit} type="submit" className="form">
-        <p className="quotes">Enter the number and get the dialog from Lord of the ring</p>
+        <p className="quotes">Do you wanna recall dialog from Lord of the Ring just type in a number and get the dialog.</p>
           <input className="int" type="text" placeholder="Please enter number" />
           <button className="btn">Submit</button>
         </form>
