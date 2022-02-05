@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import "./index.css"
 
-const url = "https://pigeon-blogs.herokuapp.com";
+const url = "https://app-react-database.herokuapp.com";
 
 export default function DataBase() {
 
