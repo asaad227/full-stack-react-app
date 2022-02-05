@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+ background-image: url("../src/components/App/horse-onFire.jpg");
+ background-attachment: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

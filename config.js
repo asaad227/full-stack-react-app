@@ -1,0 +1,1 @@
+export const connectionString = process.env.REACT_APP_API_URL;

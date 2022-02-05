@@ -1,0 +1,41 @@
+.App {
+  text-align: right;
+  font-weight: bold;
+  color: bisque;
+  background-image: url("./horse-onFire.jpg");
+  background-attachment: fixed;
+  float: left;
+  position: fixed;
+}
+
+.main-header {
+  padding-top: 50px;
+  color: beige;
+  font-style: oblique;
+}
+
+.form-submit {
+  display: flex;
+  justify-content: center;
+}
+.firstname,
+.lastname,
+.email,
+.dob,
+.btn-submit {
+  padding: 5px 10px 10px 10px;
+  border-radius: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.btn-submit {
+  font-weight: bold;
+  color: azure;
+  background-color: rgba(100, 150, 150, 0.5);
+  width: 100px;
+}
+
+.btn-submit:hover {
+  background-color: rgba(200, 100, 50, 0.5);
+  color: rgba(50, 255, 100, 0.5);
+}

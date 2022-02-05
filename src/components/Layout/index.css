@@ -1,0 +1,16 @@
+.nav-bar{
+    display: flex;
+    float: right;
+  
+}
+
+.link{
+    text-decoration: none;
+    color: whitesmoke;
+    padding-right: 20px;
+    padding-top: 10px;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
