@@ -1,0 +1,19 @@
+button{
+    padding: 8px;
+}
+
+.container{
+    padding:40px;
+    min-height: 200px;
+    margin-top: 10px;
+}
+
+
+.item{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: rgba(0,0,0,0.2), 0px, 8px;
+}

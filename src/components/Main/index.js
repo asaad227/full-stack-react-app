@@ -12,10 +12,10 @@ export default function Main() {
   return <div>
       <Routes>
       <Route path="/" element={<Layout />}>
-        <Route path="home" element={<Home />} />
-        <Route path="app" element={<App />} />
-        <Route path="database" element={<DataBase />}/>
-        <Route path="dialog" element={<Dialog />}/>
+        <Route path="/home" element={<Home />} />
+        <Route path="/app" element={<App />} />
+        <Route path="/database" element={<DataBase />}/>
+        <Route path="/dialog" element={<Dialog />}/>
         <Route path="*" element={<NoMatch />} />
         </Route>
       </Routes>
